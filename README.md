@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Agency Website](https://co-bytes.vercel.app)
 
-- 🌱 I’m currently learning **NEXT.JS, Restfull Api's**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on [NEXT.JS](https://co-bytes.vercel.app)
 
