@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amara Saeed</h1>
-<h3 align="center">A passionate Full stack developer from Pakistan</h3>
+<h3 align="center">A passionate Front-End developer from Pakistan</h3>
 
 - 🔭 I’m currently working on [Agency Website](https://co-bytes.vercel.app)
 
