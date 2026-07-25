@@ -1,33 +1,71 @@
-<h1 align="center">Hi, I'm Amara Saeed</h1>
-<h3 align="center">A passionate Front-End developer from Pakistan</h3>
+<h1 align="center">Hi, I'm Amara Saeed 👋</h1>
+<h3 align="center">Full Stack & Frontend Web Developer 💻</h3>
 
-- 🔭 I’m currently working on [Agency Website](https://co-bytes.vercel.app)
+<p align="center">
+  <a href="https://linkedin.com/in/amarasaeed787"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://meportfolio-brown.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:amarasaeed787@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-- 🌱 I’m currently learning **React**
+---
 
-- 👯 I’m looking to collaborate on [NEXT.JS](https://co-bytes.vercel.app)
+### 🚀 About Me
+* 💼 Working as **Full Stack Developer** at **Mateen Group of Companies** & Freelance Developer.
+* 🎓 Graduated with a **BS in Information Technology** (CGPA: 3.42 / 4.00) from *University of Agriculture, Faisalabad*.
+* 🌐 Experienced in building responsive, scalable, and user-friendly web applications, e-commerce platforms, and interactive dashboards.
+* 🛠️ Tech Stack Focus: **React.js, Next.js, TypeScript, Tailwind CSS, & MySQL**.
+* 💬 Ask me about **Frontend Development, Full Stack Architecture, UI/UX, & REST APIs**.
 
-- 💬 Ask me about **React, Mongodb, Github, Next js, Express js, node js**
+---
 
-- 📫 How to reach me **amarasaeed787@gmail.com**
+### 🛠 Tech Stack & Tools
 
- <!--- <h3 align="left">Connect with me:</h3>
+**Languages & Frontend:**
 <p align="left">
-<a href="https://linkedin.com/in/amarasaeed787" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amarasaeed" height="30" width="40" /></a>
-</p> -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+</p>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+**Database & Services:**
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+</p>
 
+**Tools & Workflow:**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
+---
 
+### 🌟 Featured Projects
+
+* 🛒 **[Bio Click World](https://www.bioclickworld.com/)** – Full-featured E-commerce Platform built with *Next.js, TypeScript, MySQL & Tailwind CSS*.
+* 📐 **[OfficeMoveEstimator](https://officemoveestimator.com/)** – Interactive relocation cost calculator built using *React.js & Tailwind CSS*.
+* 🏗️ **[Empire Assemble](https://www.empireassemble.com/)** – Corporate construction company website crafted with *Next.js & TypeScript*.
+* 🖨️ **[AA Printing Services](https://aaprintingservice.aliabbastradersllc.com/)** – Packaging & printing business solution built with *Next.js*.
+* 💻 **[Madlad Tech](https://website-yghm.vercel.app/)** – Agency landing page built using *Next.js & Tailwind CSS*.
+
+---
+
+### 📊 GitHub Stats & Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarasaeed&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"  alt="streak graph"  />
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amarasaeed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarasaeed&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&count_private=true" alt="streak graph" />
 </div>
 
-<!---
-amarasaeed/amarasaeed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <i>📫 Feel free to reach out for collaborations, freelance projects, or tech discussions at <b>amarasaeed787@gmail.com</b>!</i>
+</p>
